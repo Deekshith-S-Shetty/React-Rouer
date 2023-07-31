@@ -4,7 +4,10 @@ import { Route, Routes, Link } from "react-router-dom";
 function App() {
   return (
     <>
-      <nav className="navbar navbar-expand-lg bg-body-tertiary">
+      <nav
+        className="navbar navbar-expand-lg bg-body-tertiary"
+        data-bs-theme="dark"
+      >
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
             Navbar
@@ -28,8 +31,8 @@ function App() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/">
-                  Link
+                <Link className="nav-link" to="/about">
+                  About us
                 </Link>
               </li>
               <li className="nav-item dropdown">
@@ -78,6 +81,11 @@ function App() {
           </div>
         </div>
       </nav>
+
+      <Routes>
+        <Route path="/" element={<h1>HI</h1>} />
+        <Route path="/about" element={<h1>This is about</h1>} />
+      </Routes>
     </>
   );
 }
