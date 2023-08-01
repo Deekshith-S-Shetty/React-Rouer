@@ -46,7 +46,7 @@ function Navbar() {
                 </Link>
                 <ul className="dropdown-menu">
                   <li>
-                    <Link className="dropdown-item" to="/">
+                    <Link className="dropdown-item" to="/books">
                       All Books
                     </Link>
                   </li>
@@ -54,7 +54,7 @@ function Navbar() {
                     <hr className="dropdown-divider" />
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="/">
+                    <Link className="dropdown-item" to="/books/1">
                       1 Random Book
                     </Link>
                   </li>
