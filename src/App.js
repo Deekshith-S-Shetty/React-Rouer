@@ -2,6 +2,8 @@ import "./App.css";
 import { Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
+import Home from "./components/Home";
+import Books from "./components/Books";
 
 function App() {
   return (
@@ -9,7 +11,7 @@ function App() {
       <Navbar />
 
       <Routes>
-        <Route path="/" element={<h1>HI</h1>} />
+        <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
 
         {/* Normal Routing.
@@ -20,7 +22,7 @@ function App() {
 
         {/* Nested Routing */}
         <Route path="/books">
-          <Route index element={<h1>This is Books</h1>} />
+          <Route index element={<Books />} />
           <Route path=":id" element={<h1>Inside a Book</h1>} />
           <Route path="new" element={<h1>Add a new Book</h1>} />
         </Route>
