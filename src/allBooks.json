@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "title": "To Kill a Mockingbird",
         "author": "Harper Lee",
         "genre": "Fiction",
@@ -8,6 +9,7 @@
         "summary": "A classic novel exploring themes of racial injustice and moral growth in the American South."
     },
     {
+        "id": 2,
         "title": "1984",
         "author": "George Orwell",
         "genre": "Dystopian",
@@ -16,6 +18,7 @@
         "summary": "A cautionary tale about totalitarianism, thought control, and surveillance in a dystopian future."
     },
     {
+        "id": 3,
         "title": "Pride and Prejudice",
         "author": "Jane Austen",
         "genre": "Romance",
@@ -24,6 +27,7 @@
         "summary": "A witty and charming novel about the complexities of love, marriage, and societal norms."
     },
     {
+        "id": 4,
         "title": "The Great Gatsby",
         "author": "F. Scott Fitzgerald",
         "genre": "Fiction",
@@ -32,6 +36,7 @@
         "summary": "A story of wealth, excess, and the American Dream set in the Roaring Twenties."
     },
     {
+        "id": 5,
         "title": "Harry Potter and the Sorcerer's Stone",
         "author": "J.K. Rowling",
         "genre": "Fantasy",
@@ -40,6 +45,7 @@
         "summary": "The first book in the magical series following a young wizard's adventures at Hogwarts School."
     },
     {
+        "id": 6,
         "title": "The Catcher in the Rye",
         "author": "J.D. Salinger",
         "genre": "Fiction",
@@ -48,6 +54,7 @@
         "summary": "A coming-of-age novel that captures the alienation and disillusionment of a teenage boy."
     },
     {
+        "id": 7,
         "title": "To the Lighthouse",
         "author": "Virginia Woolf",
         "genre": "Modernist",
@@ -56,6 +63,7 @@
         "summary": "A stream-of-consciousness novel that explores the inner thoughts and experiences of its characters."
     },
     {
+        "id": 8,
         "title": "Brave New World",
         "author": "Aldous Huxley",
         "genre": "Dystopian",
@@ -64,6 +72,7 @@
         "summary": "A dystopian vision of a future society controlled by technology, consumerism, and social engineering."
     },
     {
+        "id": 9,
         "title": "Moby-Dick",
         "author": "Herman Melville",
         "genre": "Adventure",
@@ -72,6 +81,7 @@
         "summary": "An epic tale of obsession and revenge as Captain Ahab pursues the elusive white whale, Moby-Dick."
     },
     {
+        "id": 10,
         "title": "The Lord of the Rings",
         "author": "J.R.R. Tolkien",
         "genre": "Fantasy",
@@ -80,6 +90,7 @@
         "summary": "An epic fantasy trilogy following the journey to destroy a powerful ring and defeat the dark lord Sauron."
     },
     {
+        "id": 11,
         "title": "Jane Eyre",
         "author": "Charlotte Brontë",
         "genre": "Gothic",
@@ -88,6 +99,7 @@
         "summary": "A Gothic romance novel depicting the struggles and triumphs of a governess, Jane Eyre."
     },
     {
+        "id": 12,
         "title": "The Hobbit",
         "author": "J.R.R. Tolkien",
         "genre": "Fantasy",
@@ -96,6 +108,7 @@
         "summary": "A charming adventure about Bilbo Baggins, who joins a group of dwarves on a quest to reclaim a lost kingdom."
     },
     {
+        "id": 13,
         "title": "One Hundred Years of Solitude",
         "author": "Gabriel García Márquez",
         "genre": "Magical Realism",
@@ -104,6 +117,7 @@
         "summary": "A multi-generational tale blending magical elements with the history of the Buendía family."
     },
     {
+        "id": 14,
         "title": "Crime and Punishment",
         "author": "Fyodor Dostoevsky",
         "genre": "Psychological",
@@ -112,6 +126,7 @@
         "summary": "A psychological novel that delves into the mind of a young man who commits a murder and grapples with guilt."
     },
     {
+        "id": 15,
         "title": "The Picture of Dorian Gray",
         "author": "Oscar Wilde",
         "genre": "Gothic",
@@ -120,6 +135,7 @@
         "summary": "A Gothic tale of a man who remains young and handsome while his portrait ages, capturing the corruption of his soul."
     },
     {
+        "id": 16,
         "title": "Wuthering Heights",
         "author": "Emily Brontë",
         "genre": "Gothic",
@@ -128,6 +144,7 @@
         "summary": "A dark and passionate tale of love and revenge between the residents of Wuthering Heights and Thrushcross Grange."
     },
     {
+        "id": 17,
         "title": "Anna Karenina",
         "author": "Leo Tolstoy",
         "genre": "Historical",
@@ -136,6 +153,7 @@
         "summary": "A sweeping novel depicting the tragic consequences of Anna Karenina's adulterous affair in 19th-century Russia."
     },
     {
+        "id": 18,
         "title": "Frankenstein",
         "author": "Mary Shelley",
         "genre": "Gothic",
@@ -144,6 +162,7 @@
         "summary": "A classic tale of science and morality, as Dr. Frankenstein creates a living creature and faces the consequences."
     },
     {
+        "id": 19,
         "title": "The Giver",
         "author": "Lois Lowry",
         "genre": "Dystopian",
