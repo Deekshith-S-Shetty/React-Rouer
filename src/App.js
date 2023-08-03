@@ -1,6 +1,7 @@
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
+import About from "./components/About";
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
 
       <Routes>
         <Route path="/" element={<h1>HI</h1>} />
-        <Route path="/about" element={<h1>This is about</h1>} />
+        <Route path="/about" element={<About />} />
 
         {/* Normal Routing.
         <Route path="/books" element={<h1>This is books</h1>} />
